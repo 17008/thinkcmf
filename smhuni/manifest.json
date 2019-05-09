@@ -64,7 +64,7 @@
     "h5" : {
         "template" : "",
         "router" : {
-            "base" : ""
+            "base" : "./shop/h5/."
         }
     }
 }
