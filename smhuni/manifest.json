@@ -65,6 +65,7 @@
         "template" : "",
         "router" : {
             "base" : "./shop/h5/."
-        }
+        },
+        "title" : "数码商城}数码猴"
     }
 }
